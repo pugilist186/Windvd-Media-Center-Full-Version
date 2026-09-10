@@ -236,3 +236,6 @@ This repository serves as the official landing page for WinDVD Media Center. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WinDVD Media Center today!**
+
+---
+**Last updated:** 2026-09-10 23:37:24 UTC
