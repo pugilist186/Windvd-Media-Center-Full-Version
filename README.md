@@ -238,4 +238,4 @@ This repository serves as the official landing page for WinDVD Media Center. The
 **Get the most recent version of WinDVD Media Center today!**
 
 ---
-**Last updated:** 2026-09-12 23:39:25 UTC
+**Last updated:** 2026-09-13 02:39:46 UTC
